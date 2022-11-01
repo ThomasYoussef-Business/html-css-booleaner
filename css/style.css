@@ -1,0 +1,19 @@
+#header-logo {
+    width: 10rem;
+    margin: 0.8rem;
+}
+
+header {
+    height: 6rem;
+    background-image: url("../img/pattern.png");
+    background-size: 15rem;
+    background-repeat: repeat;
+    background-color: #1e91e8;
+    display: flex;
+    align-items: flex-end;
+}
+
+footer {
+    height: 4rem;
+    background-color: #1f81cc;
+}
